@@ -1,4 +1,6 @@
-public class Review26 {
+package reviews2;
+
+public class Review22 {
     public static void main(String[] args) {
         System.out.println();
     }
