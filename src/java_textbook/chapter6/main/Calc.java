@@ -1,4 +1,4 @@
-package java_textbook.chapter6.calc;
+package java_textbook.chapter6.main;
 
 public class Calc {
     public static void main(String[] args) {
